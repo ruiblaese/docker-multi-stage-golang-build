@@ -1,5 +1,5 @@
 <h1 align="center">
-    Docker multi stage para Golang
+    Docker build image com multi stage para Golang
 </h1>
 <p align="center">  
   <img alt="Made by Rui" src="https://img.shields.io/badge/Made%20by-ruiblaese-%2304D361">
