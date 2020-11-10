@@ -23,6 +23,13 @@ Criando images docker muito pequenas para Golang, imagem docker gerada com esse 
 
 Criei esse repositorio para ficar de exemplos para futuras implementações em Golang, fui inspirado a procurar sobre isso depois de ver uma imagem com praticamente o mesmo app "hello world" com uma imagem docker de 811mb
 
+## Download Dados Publicos com todos CNPJ's
+| Data Download | Tamanho Download | Tamanho Descompactado | Tamanho Banco PostgreSQL | Tamanho Backup PostgreSQL | Link |
+|:-------------:|:----------------:|:---------------------:|:------------------------:|:-------------------------:|------|
+|   15-01-2020  |      6,06 GB     |        96,7 GB        |          22,5 GB         |          3,15 GB          |  [Link para Download](https://drive.google.com/file/d/1oTWhFzPsJLMQwfLCUd38berjjy1cfmhq/view?usp=sharing)    |
+
+
+
 ## Contato
 
 <a href="https://www.linkedin.com/in/ruiblaese/" target="_blank" >
