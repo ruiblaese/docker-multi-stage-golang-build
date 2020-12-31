@@ -4,7 +4,7 @@ ADD . /src
 RUN cd /src && go build -o main
 
 # final stage
-FROM alpine
+FROM scratch
 WORKDIR /app
 COPY --from=build-env /src/main /app/
-ENTRYPOINT ./main
+CMD ["./main"]

@@ -19,7 +19,7 @@
 </p>
 
 ## Descrição
-Criando images docker muito pequenas para Golang, imagem docker gerada com esse micro exemplo ficou apenas 7.64mb.
+Criando images docker muito pequenas para Golang, imagem docker gerada com esse micro exemplo ficou apenas 7.64MB com Alpine e **2.03MB** com Scratch
 
 Criei esse repositorio para ficar de exemplos para futuras implementações em Golang, fui inspirado a procurar sobre isso depois de ver uma imagem com praticamente o mesmo app "hello world" com uma imagem docker de 811mb
 
